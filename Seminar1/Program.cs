@@ -1,4 +1,4 @@
-﻿// double bigNum = 12.13;
+// double bigNum = 12.13;
 // bool isEven = true;
 // string word = "flower";
 // char symbol = '$';
@@ -9,14 +9,7 @@
 // Console.WriteLine("My numbers are " + (num1 + num2) + " and it is good!");
 // Console.WriteLine($"My numbers are  {num1} and {num2}  and it is good!");
 
-// Console.Write("Input an integer number: ");
-// int num = Convert.ToInt32(Console.ReadLine());
-
-// Console.WriteLine("Your number is " + num);
-
-// Seminar1
-
-// Task 1.Напишите программу, которая на вход принимает два числа и проверяет, является ли первое число квадратом второго.
+// Console.Write("Input an integer number: "); ся ли первое число квадратом второго.
 /*
 Console.Write("Input a first number: "); заправшиваем переменную
 int num1 = Convert.ToInt32(Console.ReadLine());
